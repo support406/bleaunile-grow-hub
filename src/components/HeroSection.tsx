@@ -18,7 +18,7 @@ const HeroSection = () => {
           transition={{ duration: 0.7 }}
           className="text-5xl md:text-7xl font-display font-bold text-primary-foreground mb-6 leading-tight"
         >
-          Bleau Nile <span className="text-accent">LTD</span>
+          Bleu Nile <span className="text-accent">LTD</span>
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 20 }}
