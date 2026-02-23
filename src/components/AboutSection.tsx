@@ -20,7 +20,7 @@ const AboutSection = () => {
           transition={{ duration: 0.6, delay: 0.15 }}
           className="text-lg text-muted-foreground leading-relaxed"
         >
-          At Bleau Nile LTD, we're passionate about helping brands thrive on Amazon.
+          At Bleu Nile LTD, we're passionate about helping brands thrive on Amazon.
           We combine deep marketplace expertise with genuine care for every client we work with.
           Whether you're launching your first product or scaling an established brand,
           we deliver measurable results while keeping communication clear, honest, and friendly.
