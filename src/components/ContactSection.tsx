@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Mail, Phone, Globe } from "lucide-react";
 
 const contacts = [
-  { icon: Mail, label: "Email", value: "sales4reign@gmail.com", href: "mailto:sales4reign@gmail.com" },
+  { icon: Mail, label: "Email", value: "info.bleunile@gmail.com", href: "mailto:info.bleunile@gmail.com" },
   { icon: Phone, label: "Phone", value: "+44 7878 461196", href: "tel:+447878461196" },
   { icon: Globe, label: "Website", value: "www.bleunile.com", href: "https://www.bleunile.com" },
 ];
